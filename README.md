@@ -67,9 +67,10 @@ Tela para controle detalhado de entradas financeiras, como holerites e outros re
 
 ### 📁 Menu de Navegação
 
+Menu lateral que permite acesso rápido às principais seções do sistema.
+
 ![Menu do Sistema](imagens/menu_IR.png)
 
-Menu lateral que permite acesso rápido às principais seções do sistema.
 
 ---
 
