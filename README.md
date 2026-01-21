@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/logo_primeIR.png" alt="Prime IR Logo" width="500"/>
+  <img src="imagens/logo_primeIR.png" alt="Prime IR Logo" width="700"/>
 </p>
 
 
@@ -88,6 +88,7 @@ Menu lateral que permite acesso rápido às principais seções do sistema.
 
 ## 👨‍🎓 Autor
 **Augusto Belussi**
+[GitHub](https://github.com/Augusto-BelussiB) | [LinkedIn](https://www.linkedin.com/in/augustobelussi) | [Instagram](https://www.instagram.com/augusto_belussi)
 
 Projeto desenvolvido para fins **acadêmicos e de portfólio**.
 
