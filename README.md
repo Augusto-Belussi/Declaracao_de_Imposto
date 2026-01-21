@@ -82,6 +82,8 @@ Menu lateral que permite acesso rápido às principais seções do sistema.
 - Tabelas estruturadas
 - Validação de dados
 - Botões de navegação
+- ❌ Não utiliza VBA (lógica baseada em recursos nativos do Excel)
+
 
 ---
 
